@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # LabView Executable
-LabViewBin="/c/Program Files (x86)/National Instruments/LabVIEW 2012/LabVIEW.exe"
+LabViewBin="/c/Program Files (x86)/National Instruments/LabVIEW 2014/LabVIEW.exe"
 
 # LabView Shared Path for Compare and Merge
 LabViewShared="/c/Program Files (x86)/National Instruments/Shared"
